@@ -35,12 +35,21 @@
 
 ### [1. Insertion sort](./1-insertion_sort_list.c)
 * Write a function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm.
+--- 
+![Insertion-sort-example-300px](https://user-images.githubusercontent.com/70784906/122119087-6aa46000-cdee-11eb-8fd9-6eae25114338.gif)
+
 
 ### [2. Selection sort](./2-selection_sort.c)
 * Write a function that sorts an array of integers in ascending order using the Selection sort algorithm.
+---
+![Selection-Sort-Animation](https://user-images.githubusercontent.com/70784906/122119258-958eb400-cdee-11eb-99ef-3175ec549f7e.gif)
+
 
 ### [3. Quick sort](./3-quick_sort.c)
 * Write a function that sorts an array of integers in ascending order using the Quick sort algorithm.
+---
+![200px-Quicksort-diagram svg](https://user-images.githubusercontent.com/70784906/122120452-0e424000-cdf0-11eb-80ea-d259be5c0fa5.png)
+
 
 ---
 
