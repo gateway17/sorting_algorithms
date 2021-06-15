@@ -28,8 +28,8 @@
 ---
 
 ### [0. Bubble sort](./0-bubble_sort.c)
----
 * Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm.
+---
 ![Bubble-sort-example-300px](https://user-images.githubusercontent.com/70784906/122118306-80655580-cded-11eb-8d82-14e1ed807500.gif)
 
 
