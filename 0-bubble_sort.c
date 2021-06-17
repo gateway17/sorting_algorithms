@@ -1,4 +1,11 @@
 #include "sort.h"
+
+/**
+ * bubble_sort - Bubble sorting algorithm
+ * @array: Array of intiger to sort
+ * @size: Size of array
+ * Return: Void
+ */
 void bubble_sort(int *array, size_t size)
 {
 	int aux;
