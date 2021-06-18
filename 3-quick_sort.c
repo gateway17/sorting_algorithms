@@ -68,7 +68,7 @@ void quick_s(int *array, int lo, int hi, size_t size)
  *
  * @array: Pointer to  the beginning of an array
  * @size: The size of the array
- *  Return: index of pivot
+ * Return: index of pivot
  */
 
 void quick_sort(int *array, size_t size)
