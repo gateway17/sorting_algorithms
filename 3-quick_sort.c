@@ -48,7 +48,7 @@ int partition(int *array, int lo, int hi, size_t size)
  * @lo: lowest index of array
  * @hi: highest index of array
  * @size: The size of the array
-  * Return: index of pivot
+ * Return: index of pivot
  */
 
 void quick_s(int *array, int lo, int hi, size_t size)
